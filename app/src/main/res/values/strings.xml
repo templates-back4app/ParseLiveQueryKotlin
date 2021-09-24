@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParseLiveQueryKotlin</string>
+
+
+    <string name="back4app_server_url" translatable="false">https://sampleblogappsub.b4a.io/</string>
+    <string name="back4app_app_id" translatable="false">cUO6giP0gjXQ1bS6a8WbpxSnBylDucBjidekwoU5</string>
+    <string name="back4app_client_key" translatable="false">AY9NeNlSzfPGtPNOJtouPI4uYZr0jI3q5plGiMu8</string>
+</resources>
